@@ -1,0 +1,83 @@
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    border: none;
+    border-bottom: 1px solid black;
+    
+}
+th{
+  border-bottom: 1px solid rgb(193, 192, 192);
+}
+td{
+  border-bottom: 1px solid rgb(193, 192, 192);
+}
+.fa-sort{
+  color: black;
+}
+
+th,td{
+    padding: 16px;
+    background-color: white;
+    padding-left: 50px;
+    padding-right: 40px;
+    text-align: left;
+    /* color: gray; */
+}
+.names{
+    color: rgb(118, 209, 231);
+}
+table{
+    width: 100%;
+}
+.fa-pencil{
+    color: rgb(51, 188, 223);
+    font-size: 22px;
+
+}
+.fa-clone{
+    color: rgb(126, 236, 176);
+    font-size: 22px;
+}
+.fa-trash{
+    color: red;
+    font-size: 22px;
+
+}
+.fa-check{
+    color: rgb(197, 195, 41);
+    font-size: 22px;
+
+
+}
+.completed{
+    color: rgb(78, 173, 83);
+    font-size: 22px;
+
+
+}
+i{
+    padding: 8px;
+}
+.banner{
+    text-align: center;
+    margin-top: 1rem;
+}
+.msg{
+    text-align: center;
+    margin-top: 10rem;
+ 
+}
+table{
+    text-align: center;
+
+}
+td{
+    max-width: 10px;
+    word-wrap: break-word;
+}
+.loader{
+margin-top: 20rem;
+display: flex;
+justify-content: center;
+}
